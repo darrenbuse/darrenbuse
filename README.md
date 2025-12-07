@@ -1,16 +1,16 @@
-## Hi there 👋
+### Darren Buse
+**Engineering Director** • London, UK
 
-<!--
-**darrenbuse/darrenbuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```clojure
+;; "I used to write Java for money. Now I write Clojure for fun."
+;; My therapist says this is progress.
+```
 
-Here are some ideas to get you started:
+🔭 Currently: Automating my job with AI so I can focus on more important side projects
+<br><br>
+🌱 Philosophy: Work across the stack learning as you go, make friends everywhere, take nothing seriously
+<br><br>
+💬 Ask me about: Clojure, leadership, or why I have 47 unfinished side projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*Yes, I'm a director who still codes. No, I won't stop.*
