@@ -12,7 +12,7 @@
 
 ### 🔍 More About Me
 
-- 🔭 &nbsp; Using AI to streamline workflows and surface information — making me more effective at work
+- 🔭 &nbsp; Exploring AI to streamline workflows and surface information — making me more effective at work
 - 🌱 &nbsp; Work across the stack, learn as you go, from product -> architecture -> code.
 - 🙃 &nbsp; Bringing friendly energy to everything I do
 - 🛠️ &nbsp; Always tinkering on side projects
