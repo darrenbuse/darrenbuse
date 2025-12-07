@@ -13,11 +13,12 @@
 
 ### 🔍 More About Me
 
-- 🔭 Currently automating my job with AI so I can focus on more important side projects
-- 🌱 Work across the stack, learn as you go, make friends everywhere
-- 🙃 Take nothing too seriously
-- 💬 Ask me about Clojure, engineering leadership, or why I have 47 unfinished side projects
-- ✈️ When not working: travelling or 🔨 building something at home
+- 🔭 &nbsp; Currently automating my job with AI so I can focus on more important side projects
+- 🌱 &nbsp; Work across the stack, learn as you go, make friends everywhere
+- 🙃 &nbsp; Take nothing too seriously
+- 💬 &nbsp; Ask me about Clojure, engineering leadership, or why I have 47 unfinished side projects
+- ✈️ &nbsp; When not working: travelling or 🔨 building something at home
+- 📄 &nbsp; Check out my [Resume](https://example.com/cv)
 
 ---
 
