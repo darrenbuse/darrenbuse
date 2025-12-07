@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Darren
 
-<img align="right" width="200" src="https://via.placeholder.com/200x200?text=Your+Image" alt="placeholder"/>
+<img align="right" width="200" src="img.png" alt="AI assistant"/>
 
 **Engineering Director** • London, UK &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darrenbuse/)
 
