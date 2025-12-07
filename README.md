@@ -18,7 +18,7 @@
 - 🛠️ &nbsp; Always tinkering on side projects
 - 💬 &nbsp; Ask me about Clojure, engineering leadership, or why I have 47 unfinished side projects
 - ✈️ &nbsp; When not working: travelling or 🔨 building something at home
-- 📄 &nbsp; Check out my [![LinkedIn]](https://www.linkedin.com/in/darrenbuse/) [Resume](https://example.com/cv)
+- 📄 &nbsp; Check out my [LinkedIn](https://www.linkedin.com/in/darrenbuse/) [Resume](https://example.com/cv)
 
 ---
 
