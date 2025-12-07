@@ -4,7 +4,7 @@
 
 **Engineering Director** • London, UK &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darrenbuse/)
 
-Engineering leader who still loves getting hands dirty. Built and led teams at **Board Intelligence** and launched **Lucia**. Now exploring how AI can make engineering teams (and my own workflow) more effective.
+Engineering leader who still loves getting hands dirty. I build happy, effective teams. Built and led teams at **Board Intelligence** and launched **Lucia**. Now exploring how AI can make engineering teams (and my own workflow) more effective.
 
 ```clojure
 ;; "I used to write Java for money. Now I write Clojure for fun."
