@@ -23,12 +23,10 @@ Engineering leader who still loves getting hands dirty. I build happy, effective
 
 ### Building
 
-| Project | Description |
-|---------|-------------|
-| **Nexus** | *Coming soon* |
-| **Rummage** | *Coming soon* |
-| **Claudery** | *Coming soon* |
-| **Legwork** | *Coming soon* |
+- 🚀 **Nexus** — *Coming soon*
+- 🔍 **Rummage** — *Coming soon*
+- 🤖 **Claudery** — *Coming soon*
+- 🦿 **Legwork** — *Coming soon*
 
 ---
 
