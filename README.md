@@ -11,15 +11,13 @@
 
 <img align="right" width="200" src="img.png" alt="AI assistant"/>
 
-🔭 **Currently:** Automating my job with AI so I can focus on more important side projects
+### 🔍 More About Me
 
-🌱 **Philosophy:** Work across the stack learning as you go, make friends everywhere, take nothing seriously
-
-💬 **Ask me about:** Clojure, engineering leadership, or why I have 47 unfinished side projects
-
-✈️ **Otherwise:** Travelling or 🔨 building something at home
-
-<br>
+- 🔭 Currently automating my job with AI so I can focus on more important side projects
+- 🌱 Work across the stack, learn as you go, make friends everywhere
+- 🙃 Take nothing too seriously
+- 💬 Ask me about Clojure, engineering leadership, or why I have 47 unfinished side projects
+- ✈️ When not working: travelling or 🔨 building something at home
 
 ---
 
