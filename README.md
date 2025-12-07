@@ -1,7 +1,5 @@
 ## Hey 👋, I'm Darren
 
-<img align="right" width="200" src="img.png" alt="AI assistant"/>
-
 **Engineering Director** • London, UK
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darrenbuse/) &nbsp; [![CV](https://img.shields.io/badge/CV-4285F4?style=flat&logo=googledocs&logoColor=white)](https://example.com/cv)
@@ -13,7 +11,7 @@ Engineering leader who still loves getting hands dirty. I build happy, effective
 ;; My therapist says this is progress.
 ```
 
-<br>
+<img align="right" width="200" src="img.png" alt="AI assistant"/>
 
 🔭 **Currently:** Automating my job with AI so I can focus on more important side projects
 
