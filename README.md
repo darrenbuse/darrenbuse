@@ -4,7 +4,7 @@
 
 <img align="right" width="200" src="https://via.placeholder.com/200x200?text=Your+Image" alt="placeholder"/>
 
-Engineering leader who still loves getting hands dirty. Full stack tinkerer. Professional meeting survivor. Mass side project accumulator. Design blind but infrastructure confident.
+🛠️ Engineering leader who still loves getting hands dirty • 🔧 Full stack tinkerer • 📅 Professional meeting survivor • 📦 Mass side project accumulator • 🎨 Design blind but infrastructure confident
 
 ```clojure
 ;; "I used to write Java for money. Now I write Clojure for fun."
