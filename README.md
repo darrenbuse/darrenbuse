@@ -1,10 +1,8 @@
-## Hey 👋, I'm Darren
-
-**Engineering Director** • London, UK
+## Hey 👋, I'm Darren — **Engineering Director** • London, UK
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darrenbuse/) &nbsp; [![CV](https://img.shields.io/badge/CV-4285F4?style=flat&logo=googledocs&logoColor=white)](https://example.com/cv)
 
-Engineering leader who still loves getting hands dirty. I build happy, effective teams. Built and led teams at **Board Intelligence** and launched **Lucia**. Now exploring how AI can make engineering teams (and my own workflow) more effective.
+🛠️ Engineering leader who still loves getting hands dirty. 😊 I build happy, effective teams. 🚀 Built and led teams at **Board Intelligence** and launched **Lucia**. 🤖 Now exploring how AI can make engineering teams (and my own workflow) more effective.
 
 ```clojure
 ;; "I used to write Java for money. Now I write Clojure for fun."
