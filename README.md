@@ -13,7 +13,8 @@
 
 ### 🔍 More About Me
 
-- 🔭 &nbsp; Currently automating my job with AI so I can focus on more important side projects
+- 🔭 &nbsp; Using AI to streamline workflows and surface information — making me more effective at work
+- 🛠️ &nbsp; Always tinkering on side projects
 - 🌱 &nbsp; Work across the stack, learn as you go, make friends everywhere
 - 🙃 &nbsp; Bringing friendly energy to everything I do
 - 💬 &nbsp; Ask me about Clojure, engineering leadership, or why I have 47 unfinished side projects
