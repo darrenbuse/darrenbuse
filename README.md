@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Darren — **Engineering Director** • London, UK
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darrenbuse/) &nbsp; [![CV](https://img.shields.io/badge/CV-4285F4?style=flat&logo=googledocs&logoColor=white)](https://example.com/cv)
+
 
 🛠️ Engineering leader who still loves getting hands dirty. 😊 I build happy, effective teams. 🚀 Built and led teams at **Board Intelligence** and launched **Lucia**. 🤖 Now exploring how AI can make engineering teams (and my own workflow) more effective.
 
@@ -18,7 +18,7 @@
 - 🛠️ &nbsp; Always tinkering on side projects
 - 💬 &nbsp; Ask me about Clojure, engineering leadership, or why I have 47 unfinished side projects
 - ✈️ &nbsp; When not working: travelling or 🔨 building something at home
-- 📄 &nbsp; Check out my [Resume](https://example.com/cv)
+- 📄 &nbsp; Check out my [![LinkedIn]](https://www.linkedin.com/in/darrenbuse/) [Resume](https://example.com/cv)
 
 ---
 
