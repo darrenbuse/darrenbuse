@@ -6,7 +6,6 @@
 
 ```clojure
 ;; "I used to write Java for money. Now I write Clojure for fun."
-;; My therapist says this is progress.
 ```
 
 <img align="right" width="200" src="img.png" alt="AI assistant"/>
@@ -14,9 +13,9 @@
 ### 🔍 More About Me
 
 - 🔭 &nbsp; Using AI to streamline workflows and surface information — making me more effective at work
-- 🛠️ &nbsp; Always tinkering on side projects
-- 🌱 &nbsp; Work across the stack, learn as you go, make friends everywhere
+- 🌱 &nbsp; Work across the stack, learn as you go, from product -> architecture -> code.
 - 🙃 &nbsp; Bringing friendly energy to everything I do
+- 🛠️ &nbsp; Always tinkering on side projects
 - 💬 &nbsp; Ask me about Clojure, engineering leadership, or why I have 47 unfinished side projects
 - ✈️ &nbsp; When not working: travelling or 🔨 building something at home
 - 📄 &nbsp; Check out my [Resume](https://example.com/cv)
@@ -25,10 +24,10 @@
 
 ### 🛠 Building
 
-- 🚀 **Nexus** — *Coming soon*
-- 🔍 **Rummage** — *Coming soon*
-- 🤖 **Claudery** — *Coming soon*
-- 🦿 **Legwork** — *Coming soon*
+- 🚀 **Nexus** — My personal omni-app
+- 🔍 **Rummage** — Search across all my notes and comm's
+- 🤖 **Claudery** — Template driven Spec Driven Development with Claude
+- 🦿 **Legwork** — Workplace note management and automations
 
 ---
 
