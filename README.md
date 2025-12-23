@@ -1,13 +1,13 @@
-## Hey 👋, I'm Darren — **Engineering Director** • London, UK
+## Hey 👋, I'm Darren - **Engineering Director** • London, UK
 
 
 
-🛠️ Experenced Engineering leader who still loves getting hands dirty. 😊 I build happy, effective teams. 🚀 Built and led teams at **Board Intelligence** and launched **Lucia**. 🤖 Now exploring how AI can make engineering teams (and my own workflow) more effective.
+🛠️ Experenced Engineering leader who still loves getting my hands dirty. 😊 I build happy, effective teams. 🚀 Built and led teams at **Board Intelligence** and launched **Lucia**. 🤖 Now exploring how AI can make engineering teams (and my own workflow) more effective.
 
 
 ### 🔍 More About Me
 
-- 🔭 &nbsp; Exploring AI to streamline workflows and surface information — making me more effective at work
+- 🔭 &nbsp; Exploring AI to streamline workflows and surface information - making me more effective at work
 - 🌱 &nbsp; Work across the stack, learn as you go, from product -> architecture -> code.
 - 🙃 &nbsp; Bringing friendly energy to everything I do
 - 🛠️ &nbsp; Always tinkering on side projects
@@ -19,11 +19,8 @@
 
 ### 🛠 Building
 
-- 🚀 **Nexus** — My personal omni-app
-- 🔍 **Rummage** — Search across all my notes and comm's
-- 🤖 **Claudery** — Template driven Spec Driven Development with Claude
-- 🦿 **Legwork** — Workplace note management and automations
-
----
-
-<p align="center"><i>Yes, I'm a director who still codes. No, I won't stop.</i></p>
+- 🚀 **Nexus** - My personal omni-app platform
+- 🏺 **Thea** - Elegent home dashboard that isnt just a set of industrial dials
+- 🔍 **Rummage** - Search across all my notes and comm's
+- 🤖 **Claudery** - Template driven Spec Driven Development with Claude
+- 🦿 **Legwork** - Workplace note management and automations
