@@ -2,11 +2,12 @@
 
 
 
-🛠️ Experenced Engineering leader who still loves getting my hands dirty. 😊 I build happy, effective teams. 🚀 Built and led teams at **Board Intelligence** and launched **Lucia**. 🤖 Now exploring how AI can make engineering teams (and my own workflow) more effective.
+🛠️ Experenced Product Focused Engineering leader who still loves getting my hands dirty. 😊 I build happy, effective teams who get a kick out of building products. 🚀 Built and led teams at **Board Intelligence** and launched **Lucia**. 🤖 Now exploring how AI can make engineering teams (and my own workflow) more effective.
 
 
 ### 🔍 More About Me
 
+- ❤️ &nbsp; Building products people actually want to use — that's the good stuff
 - 🔭 &nbsp; Exploring AI to streamline workflows and surface information - making me more effective at work
 - 🌱 &nbsp; Work across the stack, learn as you go, from product -> architecture -> code.
 - 🙃 &nbsp; Bringing friendly energy to everything I do
