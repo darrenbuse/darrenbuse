@@ -9,7 +9,7 @@
 
 - ❤️ &nbsp; Building products people actually want to use — that's the good stuff
 - 🔭 &nbsp; Exploring AI to streamline workflows and surface information - making me more effective at work
-- 🌱 &nbsp; Work across the stack, learn as you go, from product -> architecture -> code.
+- 🪜 &nbsp; Work across the stack, learn as you go, from product -> architecture -> code.
 - 🙃 &nbsp; Bringing friendly energy to everything I do
 - 🛠️ &nbsp; Always tinkering on side projects
 - 💬 &nbsp; Ask me about Clojure, engineering leadership, or why I have 47 unfinished side projects
