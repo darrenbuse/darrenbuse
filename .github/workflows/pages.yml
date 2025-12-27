@@ -21,20 +21,21 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Create output directory
-        run: mkdir -p public
+      - name: Setup pandoc
+        uses: pandoc/actions/setup@v1
 
-      - name: Convert README to HTML
-        uses: natescherer/markdown-to-html-with-github-style-action@v1.1.0
-        with:
-          path: README.md
-          outputpath: public/
-
-      - name: Copy assets
+      - name: Build site
         run: |
-          cp *.gif public/ 2>/dev/null || true
-          cp *.png public/ 2>/dev/null || true
-          cp CNAME public/ 2>/dev/null || true
+          mkdir -p public
+          pandoc README.md -f gfm -t html --standalone \
+            --metadata title="Darren Buse" \
+            --css=https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css \
+            -o public/index.html
+          # Wrap content in markdown-body div for GitHub styling
+          sed -i 's/<body>/<body><article class="markdown-body" style="max-width:900px;margin:40px auto;padding:20px;">/' public/index.html
+          sed -i 's/<\/body>/<\/article><\/body>/' public/index.html
+          # Copy assets
+          cp *.gif *.png CNAME public/ 2>/dev/null || true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
