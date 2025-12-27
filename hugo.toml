@@ -1,0 +1,8 @@
+baseURL = "https://darrenbuse.com/"
+languageCode = "en-gb"
+title = "Darren Buse"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
