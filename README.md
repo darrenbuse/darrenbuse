@@ -1,11 +1,11 @@
-## Hey 👋, I'm Darren - **Engineering Director** • London, UK
+# Hey 👋, I'm Darren - **Engineering Director** • London, UK
 
 
 
 🛠️ I lead engineering teams and ship code. Product-focused director who hasn’t forgotten how to build. 😊 I create happy, effective teams who get a kick out of delivering products. 🚀 Built and led teams at **Board Intelligence** and launched **Lucia**. 🤖 Now exploring how AI can make engineering teams (and my own workflow) more effective.
 
 
-### 🔍 More About Me
+## 🔍 More About Me
 
 - ❤️ &nbsp; Building products people actually want to use — that's the good stuff
 - 🔭 &nbsp; Exploring AI to streamline workflows and surface information - making me more effective at work
@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠 Side Projects - no warranties, no regrets
+## 🛠 Side Projects - no warranties, no regrets
 
 - 🚀 **Nexus** - My personal omni-app platform
 - 🏺 **Thea** - Elegent home dashboard that isnt just a set of industrial dials
