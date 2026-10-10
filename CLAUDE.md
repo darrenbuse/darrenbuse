@@ -1,7 +1,14 @@
 # darrenbuse
 
+This file provides guidance to Claude Code when working with code in this repository.
+
 This repo is my GitHub profile README. `README.md` is the only file that matters;
 it renders at github.com/darrenbuse.
+
+## Setup
+
+    npm install                                            # husky, which runs the commit hook
+    npm install -g commitizen cz-conventional-changelog    # commitizen, which the hook calls
 
 ## Side Projects section
 
