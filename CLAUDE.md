@@ -24,18 +24,25 @@ list is a candidate to mention, never an error.
 
 When asked to check the README, or before editing the Side Projects section, run:
 
-    gh repo list darrenbuse --limit 200 --json name,visibility,isArchived,description \
-      --jq 'sort_by(.name)[] | [.name, .visibility, (if .isArchived then "archived" else "" end), (.description // "<none>")] | @tsv'
+    gh repo list darrenbuse --limit 200 --json name,visibility,isArchived,isFork,description \
+      --jq '[.[] | select(.isFork | not)] | sort_by(.name)[] | [.name, .visibility, (if .isArchived then "archived" else "" end), (.description // "<none>")] | @tsv'
 
 Compare the output with the Side Projects section and report, in this order:
 
 1. Listed entries whose repo is missing, archived or renamed on GitHub.
 2. Linked entries whose repo is now private, and plain-text entries whose repo is now public.
-3. Unlisted, unarchived repos, offered as candidates.
+3. Unlisted, unarchived repos, offered as candidates. Forks are skipped unless asked for.
 4. Repos with no GitHub description, or one that no longer agrees with the README line.
 
 Report first and wait for a yes before editing the README or running `gh repo edit`.
 Never commit or push without a yes.
+
+## Commits
+
+Commit messages follow conventional commits, `type(scope): subject` with a body,
+the shape the commitizen hook produces. The hook needs a terminal, so a commit
+made from Claude Code skips the prompt and the message has to be written in that
+shape by hand.
 
 ## Repo naming skill
 

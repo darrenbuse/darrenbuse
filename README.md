@@ -36,3 +36,5 @@ What I'm building:
 - 🖍️ **Redpen** - Markdown comments and feedback for reviewing Claude-generated specs
 - 🎯 **Dotto** - Dotfiles. The dots that make my machines feel like home
 - 👹 **Kobold** - IaC. The tiny server in the shoe cupboard that gives Nexus a home
+- 🖌️ **Stencil** - My personal design system
+- ⚙️ **commit-o-matic** - Cron and git hooks that commit for you. Set it up once and never commit by hand again
