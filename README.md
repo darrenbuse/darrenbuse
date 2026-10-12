@@ -38,3 +38,4 @@ What I'm building:
 - 👹 **Kobold** - IaC. The tiny server in the shoe cupboard that gives Nexus a home
 - 🖌️ **Stencil** - My personal design system
 - ⚙️ **commit-o-matic** - Cron and git hooks that commit for you. Set it up once and never commit by hand again
+- 🧭 **Latitude** - Apple TV photo frame with more say over what shows, by place and theme
